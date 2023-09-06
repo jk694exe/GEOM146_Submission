@@ -1,0 +1,74 @@
+पवन ऊजजा/Wind 
+Energyसौर ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Totalपवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 0.90 0.90 0.00 0.00 0.90 0.90
+हररयजणज / Haryana 0.00 0.13 1.12 1.25 0.00 0.13 1.12 1.25
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 3.20 3.20 0.00 0.00 3.20 3.20
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 2.80 1.05 3.85 0.00 2.80 1.05 3.85
+रजजस्थजन / Rajasthan 6.45 16.18 4.19 26.82 6.45 16.18 4.19 26.82
+उत्तर प्रदेश / Uttar Pradesh 0.00 6.27 21.60 27.87 0.00 6.27 21.60 27.87
+उत्तराखंड / Uttarakhand 0.00 0.37 0.88 1.25 0.00 0.37 0.88 1.25
+उत्तरी क्षेत्र / Northern Region 6.45 25.75 32.94 65.14 6.45 25.75 32.94 65.14
+छत्तीसगढ़ / Chhattisgarh 0.00 0.50 0.00 0.50 0.00 0.50 0.00 0.50
+गुजरजत / Gujarat 42.20 11.90 0.50 54.60 42.20 11.90 0.50 54.60
+मध्य प्रदेश / Madhya Pradesh 9.90 8.20 1.30 19.40 9.90 8.20 1.30 19.40
+महजरजष्ट्र / Maharashtra 8.30 6.70 0.00 15.00 8.30 6.70 0.00 15.00
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 60.40 27.30 1.80 89.50 60.40 27.30 1.80 89.50
+आन्र प्रदेश / Andhra Pradesh 15.40 14.44 0.00 29.84 15.40 14.44 0.00 29.84
+तेऱंगजनज / Telangana 0.62 18.27 0.00 18.89 0.62 18.27 0.00 18.89
+कनजाटक / Karnataka 6.97 40.74 7.23 54.94 6.97 40.74 7.23 54.94
+केरऱ / Kerala 0.20 0.28 0.00 0.48 0.20 0.28 0.00 0.48
+तममऱ नजडू / Tamil Nadu 10.46 16.35 0.00 26.81 10.46 16.35 0.00 26.81
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 33.65 90.08 7.23 130.96 33.65 90.08 7.23 130.96
+बबहजर / Bihar 0.00 0.00 0.65 0.65 0.00 0.00 0.65 0.65
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 0.89 0.89 0.00 0.00 0.89 0.89
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.54 1.54 0.00 0.00 1.54 1.54
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 100.50 143.13 43.51 287.14 100.50 143.13 43.51 287.14
+Total Daily RE generation from ISGS (from Page-2) 8.79 19.00 0.00 27.79 8.79 19.00 0.00 27.79
+सम्पूणण भारत/ All India 109.29 162.13 43.51 314.93 109.29 162.13 43.51 314.93
+109.29
+162.13
+271.42
+253778
+172623
+884558
+* Based on Co2 Baseline data base for Indian power sector version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)***(C)Saving inWater consumption @ 3.25 KL per MWh (KL)**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne)*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2)Total (Wind+Solar)(MU)Savings During the Day :-
+Wind(MU)
+Solar (MU)Central Electricity Authority / केन्द्रीय विद्युत प्राधिकरण
+राज्य/State /क्षेत्र / Region1 फरर्वरी,2020 /February ,2020Daily Renewable Generation Report / दैनिक अक्षय ऊर्ाा ररपोर्ाRenewable Energy Project Monitoring Division / ििीकरणीय ऊर्ाा पररयोर्िा प्रबोिि प्रभाग
+आॉकड़े मममऱयि यूनिर् िेर् / Figures in MU net
+Cumulative Generation during February 2020
+* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.
+Page 1 of 2

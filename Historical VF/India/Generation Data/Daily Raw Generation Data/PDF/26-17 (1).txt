@@ -1,0 +1,80 @@
+पवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Totalपवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 0.82 0.82 0.00 0.00 15.78 15.78
+हररयजणज / Haryana 0.00 0.14 1.13 1.27 0.00 2.28 23.66 25.94
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 3.20 3.20 0.00 0.04 76.80 76.84
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 3.37 1.05 4.42 0.00 58.60 27.30 85.90
+रजजस्थजन / Rajasthan 3.41 16.64 4.35 24.40 352.00 333.22 117.31 802.53
+उत्तर प्रदेश / Uttar Pradesh 0.00 5.14 21.60 26.74 0.00 92.59 561.60 654.19
+उत्तराखंड / Uttarakhand 0.00 0.44 0.89 1.33 0.00 8.87 20.10 28.97
+उत्तरी क्षेत्र / Northern Region 3.41 25.73 33.04 62.18 352.00 495.60 842.55 1,690.15
+छत्तीसगढ़ / Chhattisgarh 0.00 0.10 0.00 0.10 0.00 10.50 0.00 10.50
+गुजरजत / Gujarat 8.20 10.90 0.50 19.60 811.60 252.10 11.80 1,075.50
+मध्य प्रदेश / Madhya Pradesh 1.10 7.80 1.20 10.10 198.60 157.00 28.40 384.00
+महजरजष्ट्र / Maharashtra 3.40 7.20 0.00 10.60 212.30 151.50 0.00 363.80
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 12.70 26.00 1.70 40.40 1,222.50 571.10 40.20 1,833.80
+आन्र प्रदेश / Andhra Pradesh 4.78 12.92 0.00 17.70 191.38 264.32 0.00 455.70
+तेऱंगजनज / Telangana 0.26 19.70 0.00 19.96 16.66 444.73 0.00 461.39
+कनजाटक / Karnataka 7.39 37.07 14.15 58.61 364.23 1,062.70 366.37 1,793.30
+केरऱ / Kerala 0.21 0.30 0.00 0.51 7.47 8.19 0.00 15.66
+तममऱ नजडू / Tamil Nadu 9.41 19.08 0.00 28.49 337.07 381.82 0.00 718.89
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 22.05 89.07 14.15 125.27 916.81 2,161.76 366.37 3,444.94
+बबहजर / Bihar 0.00 0.00 1.00 1.00 0.00 0.00 12.00 12.00
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 0.91 0.91 0.00 0.00 23.31 23.31
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.91 1.91 0.00 0.00 35.31 35.31
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 38.16 140.80 50.80 229.76 2,491.31 3,228.46 1,284.43 7,004.20
+Total Daily RE generation from ISGS (from Page-2) 4.93 16.41 0.00 21.34 272.60 356.39 0.00 628.99
+सम्पूणण भारत/ All India 43.09 157.21 50.80 251.10 2,763.91 3,584.85 1,284.43 7,633.19
+43.09
+157.21
+200.30
+187281
+127391
+650975
+* Based on Co2 Baseline data base for Indian power sector version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.26 जनर्वरी,2020 /January ,2020Renewable Energy Project Monitoring Division / नवीकरणीय ऊर्जा ऩररयोर्नज प्रबोधन प्रभजग
+आॉकड़े मममऱयन यूननट नेट / Figures in MU netCentral Electricity Authority / केन्द्रीय ववद्युत प्रजधधकरण
+राज्य/State /क्षेत्र / RegionDaily Renewable Generation Report / दैननक अक्षय ऊर्जा ररऩोटा
+Cumulative Generation during January 2020
+Savings During the Day :-
+Wind(MU)
+Solar (MU)
+Total (Wind+Solar)(MU)
+*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2)
+**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne)
+***(C)Saving inWater consumption @ 3.25 KL per MWh (KL)
+Page 1 of 2

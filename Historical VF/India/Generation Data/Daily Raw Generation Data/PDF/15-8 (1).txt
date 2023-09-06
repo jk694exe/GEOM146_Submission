@@ -1,0 +1,76 @@
+पवन 
+ऊर्जा/Wind 
+Energyसौर 
+ऊर्जा/Solar 
+Energyअन्य 
+ऊर्जा/Others 
+RES 
+(Biomass ,Baकुल/Totalपवन 
+ऊर्जा/Wind 
+Energyसौर ऊर्जा/Solar 
+Energyअन्य ऊर्जा/Others 
+RES 
+(Biomass ,Bagasse ,S
+mall Hydro & 
+Others)कुल/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दिल्ली / Delhi 0.00 0.00 0.50 0.50 0.00 0.00 9.39 9.39
+हररयजणज / Haryana 0.00 0.09 0.65 0.74 0.00 1.47 8.13 9.60
+दहमजचल प्रिेश / Himachal Pradesh 0.00 0.00 4.13 4.13 0.00 0.13 59.55 59.68
+र्म्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंर्जब / Punjab 0.00 1.57 1.05 2.62 0.00 34.52 15.75 50.27
+रजर्स्थजन / Rajasthan 9.73 6.46 4.44 20.63 196.96 169.80 68.29 435.05
+उत्तर प्रिेश / Uttar Pradesh 0.00 4.40 14.40 18.80 0.00 49.30 57.54 106.84
+उत्तराखंड / Uttarakhand 0.00 0.54 0.45 0.99 0.00 7.58 1.99 9.57
+उत्तरी क्षेत्र / Northern Region 9.73 13.06 25.62 48.41 196.96 262.80 220.64 680.40
+छत्तीसगढ़ / Chhattisgarh 0.00 0.10 0.00 0.10 0.00 6.90 0.00 6.90
+गुर्रजत / Gujarat 16.30 8.80 0.20 25.30 245.60 117.00 2.90 365.50
+मध्य प्रिेश / Madhya Pradesh 6.10 5.70 0.40 12.20 53.80 77.40 5.20 136.40
+महजरजष्ट्र / Maharashtra 7.80 5.00 0.00 12.80 106.50 83.40 0.00 189.90
+िमन और दिउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+िजिर व नगर हवेली/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 30.20 19.60 0.60 50.40 405.90 284.70 8.10 698.70
+आन्र प्रिेश / Andhra Pradesh 7.64 6.48 0.00 14.12 81.38 167.71 0.00 249.09
+तेलंगजनज / Telangana 0.40 14.45 0.00 14.85 5.51 224.14 0.00 229.65
+कनजाटक / Karnataka 14.90 26.27 7.73 48.90 131.42 512.96 124.53 768.91
+केरल / Kerala 0.31 0.30 0.00 0.61 1.96 4.18 0.00 6.14
+तममल नजडू / Tamil Nadu 4.87 12.42 0.00 17.29 55.44 190.54 0.00 245.98
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 28.12 59.92 7.73 95.77 275.71 1,099.53 124.53 1,499.77
+बबहजर / Bihar 0.00 0.00 0.51 0.51 0.00 0.00 7.15 7.15
+िजमोिर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 1.26 1.26 0.00 0.00 19.34 19.34
+पश्श्चम बंगजल / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.77 1.77 0.00 0.00 26.49 26.49
+अरुणजचल प्रिेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजलय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजलैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 68.05 92.58 35.72 196.35 878.57 1,647.03 379.76 2,905.36
+Total Daily RE generation from ISGS (from 
+Page-2)7.46 9.06 0.00 16.52 66.41 156.64 0.00 223.05
+सम्पूणण भारत/ All India 75.51 101.64 35.72 212.87 944.98 1,803.67 379.76 3,128.41
+75.51
+101.64
+177.15
+165635
+112667
+575738
+* Based on Co2 Baseline data base for Indian power sector version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)***(C)Saving inWater consumption @ 3.25 KL per MWh (KL)* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.
+Wind (MU)
+Solar (MU)
+Total (Wind+Solar)(MU)
+*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2)
+**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne)Central Electricity Authority 
+राज्य/State /क्षेत्र / Region15 नर्वंबर,2019 /November ,2019दैनिक अक्षय ऊर्ाा ररपोर्ा/Daily Renewable Generation ReportRenewable Project Monitoring Division
+Cumulative Generation during November 2019आँकड़े मिमियन यूमनट नेट / Figures in MU net
+Page 1 of 2

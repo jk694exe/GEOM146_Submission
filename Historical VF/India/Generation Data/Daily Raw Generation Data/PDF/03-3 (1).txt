@@ -1,0 +1,63 @@
+पवन ऊजजा/Wind Energyसौर 
+ऊजजा/Solar 
+Energyअन्य 
+ऊजजा/Others
+ RES 
+(Biomass ,कुऱ/Totalपवन ऊजजा/Wind 
+Energyसौर ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Total
+क्षेत्र / Region ( MU ) ( MU ) ( MU ) ( MU ) ( MU ) ( MU ) ( MU ) ( MU )
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 0.85 0.85 0.00 0.00 2.42 2.42
+हररयजणज / Haryana 0.00 0.11 0.38 0.49 0.00 0.33 1.31 1.64
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 10.96 10.96 0.00 0.00 33.03 33.03
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 3.70 2.55 6.25 5.72 6.08 6.61 18.41
+रजजस्थजन / Rajasthan 16.19 10.27 4.40 30.86 70.03 38.07 13.32 121.42
+उत्तर प्रदेश / Uttar Pradesh 0.00 4.30 1.20 5.50 0.00 12.42 3.60 16.02
+उत्तराखंड / Uttarakhand 0.00 0.39 0.00 0.39 0.00 1.40 0.00 1.40
+उत्तरी क्षेत्र / Northern Region 16.19 18.77 20.34 55.30 75.75 58.30 60.29 194.34
+छत्तीसगढ़ / Chhattisgarh 0.00 0.40 0.00 0.40 0.00 1.50 0.00 1.50
+गुजरजत / Gujarat 65.50 5.40 0.10 71.00 166.70 13.70 0.50 180.90
+मध्य प्रदेश / Madhya Pradesh 6.30 4.30 0.10 10.70 40.50 11.50 0.40 52.40
+महजरजष्ट्र / Maharashtra 59.30 3.30 0.00 62.60 181.80 8.50 0.00 190.30
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ESIL 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 131.10 13.40 0.20 144.70 389.00 35.20 0.90 425.10
+आन्र प्रदेश / Andhra Pradesh 63.22 6.61 1.07 70.90 200.61 19.45 3.04 223.10
+तेऱंगजनज / Telangana 2.05 7.19 3.63 12.87 5.85 22.58 13.89 42.32
+कनजाटक / Karnataka 71.00 21.46 6.79 99.25 209.12 64.82 19.46 293.40
+केरऱ / Kerala 0.64 0.34 0.14 1.12 1.75 0.84 0.42 3.01
+तममऱ नजडू / Tamil Nadu 54.55 13.46 19.33 87.34 211.78 42.27 56.71 310.76
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 191.46 49.06 30.96 271.48 629.11 149.96 93.52 872.59
+बबहजर / Bihar 0.00 0.00 0.49 0.49 0.00 0.00 1.56 1.56
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 1.68 1.68 0.00 0.00 5.04 5.04
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 2.17 2.17 0.00 0.00 6.60 6.60
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+सम्पूणण भारत/ All India 338.75 81.23 53.67 473.65 1,093.86 243.46 161.31 1,498.63
+Wind (MU) 338.75
+Solar (MU) 81.23
+Total (MU) 419.98
+Net saving of water 
+in ML (Mega Litre)1,364.94
+* Saving in water consumption of 3.25 KL of water per Mwh of wind & solar generation. 2) Figure given above indicate gross RE generation of all power stations (Central , State & Private Sector) located geographically in the respective State/UT. Note:-1) The Data is based on daily power suppy report by RLDCs/NLDCs . It has only operational data and have no commerial implication. राज्य/Stateदैनिक अक्षय ऊर्ाण ररपोर्ण/Daily Renewable Generation Report (Provisional )
+आँकड़े मममऱयन यूननट नेट / Figures in MU net
+3 अगस्त,2019 /August,2019 Cumulative Generation during August 2019

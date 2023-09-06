@@ -1,0 +1,77 @@
+पवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Totalपवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,
+Small Hydro & 
+Others)कुऱ/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 0.00 0.00 0.00 0.00 18.21 18.21
+हररयजणज / Haryana 0.00 0.08 1.25 1.33 0.00 2.05 28.74 30.79
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 3.47 3.47 0.00 0.12 87.76 87.88
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 1.48 1.05 2.53 0.00 43.40 27.30 70.70
+रजजस्थजन / Rajasthan 3.89 14.33 4.65 22.87 332.64 340.08 122.00 794.72
+उत्तर प्रदेश / Uttar Pradesh 0.00 0.20 21.60 21.80 0.00 70.98 535.20 606.18
+उत्तराखंड / Uttarakhand 0.00 0.07 0.89 0.96 0.00 9.21 16.12 25.33
+उत्तरी क्षेत्र / Northern Region 3.89 16.16 32.91 52.96 332.64 465.84 835.33 1,633.81
+छत्तीसगढ़ / Chhattisgarh 0.00 0.00 0.00 0.00 0.00 8.10 0.00 8.10
+गुजरजत / Gujarat 41.40 9.30 0.40 51.10 949.00 221.60 8.60 1,179.20
+मध्य प्रदेश / Madhya Pradesh 7.10 6.50 1.30 14.90 208.10 142.80 27.70 378.60
+महजरजष्ट्र / Maharashtra 2.50 2.90 0.00 5.40 254.20 129.10 0.00 383.30
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 51.00 18.70 1.70 71.40 1,411.30 501.60 36.30 1,949.20
+आन्र प्रदेश / Andhra Pradesh 4.57 11.30 0.00 15.87 203.87 208.03 0.00 411.90
+तेऱंगजनज / Telangana 0.30 10.49 0.00 10.79 16.75 398.77 0.00 415.52
+कनजाटक / Karnataka 8.03 33.87 13.35 55.25 523.90 871.19 341.70 1,736.79
+केरऱ / Kerala 0.17 0.13 0.00 0.30 8.56 5.23 0.00 13.79
+तममऱ नजडू / Tamil Nadu 5.44 9.61 0.00 15.05 335.14 262.47 0.00 597.61
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 18.51 65.40 13.35 97.26 1,088.22 1,745.69 341.70 3,175.61
+बबहजर / Bihar 0.00 0.00 0.24 0.24 0.00 0.00 9.63 9.63
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 0.98 0.98 0.00 0.00 34.66 34.66
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.22 1.22 0.00 0.00 44.29 44.29
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 73.40 100.26 49.18 222.84 2,832.16 2,713.13 1,257.62 6,802.91
+Total Daily RE generation from ISGS (from Page-2) 8.28 13.68 0.00 21.96 281.41 315.99 0.00 597.40
+सम्पूणण भारत/ All India 81.68 113.94 49.18 244.80 3,113.57 3,029.12 1,257.62 7,400.31
+81.68
+113.94
+195.62
+182905
+124414
+635765
+* Based on Co2 Baseline data base for Indian power sectpr version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)***(C)Saving inWater consumption @ 3.25 KL per MWh (KL)Savings During the Day :-
+Wind (MU)
+Solar (MU)
+Total (Wind+Solar)(MU)
+*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2)
+**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne)* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.Cumulative Generation during December2019 26 ददसंबर,2019 /December ,2019Renewable Energy Project Monitoring Division / नवीकरणीय ऊर्जा ऩररयोर्नज प्रबोधन प्रभजग
+आॉकड़े मममऱयन यूननट नेट / Figures in MU netDaily Renewable Generation Report / दैननक अक्षय ऊर्जा ररऩोटाCentral Electricity Authority / केन्द्रीय ववद्युत प्रजधधकरण
+राज्य/State /क्षेत्र / Region
+Page 1 of 2

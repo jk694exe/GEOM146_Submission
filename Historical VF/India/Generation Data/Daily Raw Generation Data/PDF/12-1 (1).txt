@@ -1,0 +1,62 @@
+Region State Wind Solar Others RES 
+(Biomass,Bag
+asse,Small 
+Hydro & 
+Others) Total 
+Punjab 0 4.04 1.92 5.96
+Haryana 0 0.09 0.57 0.66
+Rajasthan 18.85 17.35 4.51 40.71
+Delhi 0 0 0 0
+Uttar Pradesh 0 3.91 2.4 6.31
+Uttarakhand 0 0.7 0 0.7
+Himachal Pradesh 0 0 10.39 10.39
+J&K 0 0 0 0
+Chandigarh 0 0 0 0
+Total 18.85 26.09 19.79 64.73
+Chhatisgarh 0 1 0 1
+Daman and Nagar 
+Haveli 0 0 0 0
+Daman and Dui 0 0 0 0
+ESIL 0 0 0 0
+Goa 0 0 0 0
+Gujarat 18.9 7.8 0.2 26.9
+Madhya Pradesh 6.3 5.4 0.2 11.9
+Maharashtra 39.6 6.6 0 46.2
+ Total 64.8 20.8 0.4 86
+Andhra Pradesh 41.13 14.19 2.33 57.65
+Karnataka 41.35 28.83 1.68 71.86
+Kerala 0.52 0.13 0.12 0.77
+Pondicherry - - - 0
+Telangana 82.03 11.92 19.35 113.3
+Tamil Nadu 1.32 22.59 4.71 28.62
+ Total 166.35 77.66 28.19 272.2
+Bihar - - - 0.57
+DVC - - - 0
+Jharkhand - - - 0
+Odisha - - - 1.68
+Sikkim - - - 0
+West Bengal - - - 0
+ Total 0 0 0 2.25
+Arunchal Pradesh - - - 0
+Assam - - - 0
+Manipur - - - 0
+Meghalaya - - - 0
+Mizoram - - - 0
+Nagaland 0
+Tripura - - - 0
+ Total 0 0 0 0
+All India 
+Total 250 124.55 48.38 425.18
+Desclaimer :- The Data is based on daily power suppy report by RLDCs/NLDCs . It 
+has only operational data and have no commerial implication. Northern 
+Region 
+Western 
+Region 
+Southern 
+Region 
+Eastern 
+Region 
+North 
+Eastern 
+Region Tentative Daily Renewable Generation Report 
+Date :12.06.2019

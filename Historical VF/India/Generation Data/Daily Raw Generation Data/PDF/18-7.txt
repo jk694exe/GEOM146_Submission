@@ -1,0 +1,78 @@
+पवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar
+ Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,S
+mall Hydro & 
+Others)कुऱ/Totalपवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,Sm
+all Hydro & Others)कुऱ/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 1.10 1.10 0.00 0.00 11.62 11.62
+हररयजणज / Haryana 0.00 0.15 0.84 0.99 0.00 1.87 10.23 12.10
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 3.57 3.57 0.00 0.13 70.26 70.39
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 3.02 1.05 4.07 0.00 41.74 18.90 60.64
+रजजस्थजन / Rajasthan 1.52 13.42 4.66 19.60 233.36 203.49 82.17 519.02
+उत्तर प्रदेश / Uttar Pradesh 0.00 0.40 14.40 14.80 0.00 57.37 100.74 158.11
+उत्तराखंड / Uttarakhand 0.00 0.52 0.50 1.02 0.00 9.34 3.49 12.83
+उत्तरी क्षेत्र / Northern Region 1.52 17.51 26.12 45.15 233.36 313.94 297.41 844.71
+छत्तीसगढ़ / Chhattisgarh 0.00 0.10 0.00 0.10 0.00 7.30 0.00 7.30
+गुजरजत / Gujarat 26.30 7.90 0.30 34.50 331.80 141.30 3.80 476.90
+मध्य प्रदेश / Madhya Pradesh 1.70 6.00 0.50 8.20 67.20 95.50 6.50 169.20
+महजरजष्ट्र / Maharashtra 11.40 5.90 0.00 17.30 135.70 100.60 0.00 236.30
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 39.40 19.90 0.80 60.10 534.70 344.70 10.30 889.70
+आन्र प्रदेश / Andhra Pradesh 11.06 11.24 0.00 22.30 108.55 205.18 0.00 313.73
+तेऱंगजनज / Telangana 0.61 18.96 0.00 19.57 6.89 280.06 0.00 286.95
+कनजाटक / Karnataka 18.30 31.73 10.85 60.88 174.00 613.67 152.82 940.49
+केरऱ / Kerala 0.22 0.23 0.00 0.45 2.45 4.91 0.00 7.36
+तममऱ नजडू / Tamil Nadu 6.48 12.43 0.00 18.91 69.02 227.15 0.00 296.17
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 36.67 74.59 10.85 122.11 360.91 1,330.97 152.82 1,844.70
+बबहजर / Bihar 0.00 0.00 0.56 0.56 0.00 0.00 8.74 8.74
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 1.33 1.33 0.00 0.00 23.12 23.12
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.89 1.89 0.00 0.00 31.86 31.86
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 77.59 112.00 39.66 229.25 1,128.97 1,989.61 492.39 3,610.97
+Total Daily RE generation from ISGS (from 
+Page-2)8.30 13.19 0.00 21.49 90.29 192.58 0.00 282.87
+सम्पूणण भारत/ All India 85.89 125.19 39.66 250.74 1,219.26 2,182.19 492.39 3,893.84
+85.89
+125.19
+211.08
+197360
+134247
+686010
+* Based on Co2 Baseline data base for Indian power sectpr version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne)
+***(C)Saving inWater consumption @ 3.25 KL per MWh (KL)* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.
+Wind (MU)
+Solar (MU)
+Total (Wind+Solar)(MU)
+*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2)दैनिक अक्षय ऊर्जा रिपोर्ा/Daily Renewable Generation ReportRenewable Project Monitoring Division
+Cumulative Generation during November 2019Central Electricity Authority 
+राज्य/State /क्षेत्र / Regionआॉकड़े मिमियि यूनिर् िेर् / Figures in MU net
+18 नर्वंबर,2019 /November ,2019
+Page 1 of 2

@@ -1,0 +1,71 @@
+पवन ऊजजा/Wind 
+Energyसौर ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,S
+mall Hydro & 
+Others)कुऱ/Totalपवन 
+ऊजजा/Wind 
+Energyसौर 
+ऊजजा/Solar 
+Energyअन्य ऊजजा/Others 
+RES 
+(Biomass ,Bagasse ,S
+mall Hydro & 
+Others)कुऱ/Total
+चंडीगढ़/ Chandigarh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ददल्ऱी / Delhi 0.00 0.00 0.90 0.90 0.00 0.00 1.74 1.74
+हररयजणज / Haryana 0.00 0.14 1.23 1.37 0.00 0.41 3.16 3.57
+दहमजचऱ प्रदेश / Himachal Pradesh 0.00 0.00 3.35 3.35 0.00 0.07 10.05 10.12
+जम्मू कश्मीर / Jammu & Kashmir 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पंजजब / Punjab 0.00 2.63 1.05 3.68 0.00 7.14 3.15 10.29
+रजजस्थजन / Rajasthan 12.27 16.25 4.58 33.10 42.44 47.95 13.92 104.31
+उत्तर प्रदेश / Uttar Pradesh 0.00 3.67 19.20 22.87 0.00 7.07 57.60 64.67
+उत्तराखंड / Uttarakhand 0.00 0.53 0.56 1.09 0.00 1.51 1.32 2.83
+उत्तरी क्षेत्र / Northern Region 12.27 23.22 30.87 66.36 42.44 64.15 90.94 197.53
+छत्तीसगढ़ / Chhattisgarh 0.00 0.10 0.00 0.10 0.00 0.30 0.00 0.30
+गुजरजत / Gujarat 47.50 8.50 0.20 56.20 132.60 25.40 0.60 158.60
+मध्य प्रदेश / Madhya Pradesh 11.30 6.60 1.00 18.90 26.60 14.70 2.60 43.90
+महजरजष्ट्र / Maharashtra 21.20 4.40 0.00 25.60 47.90 12.80 0.00 60.70
+दमन और ददउ / Daman & Diu 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दजदर व नगर हवेऱी/ Dadra & Nagar Haveli 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+गोवज / Goa 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पश्चिमी क्षेत्र / Western Region 80.00 19.60 1.20 100.80 207.10 53.20 3.20 263.50
+आन्र प्रदेश / Andhra Pradesh 9.57 4.07 0.00 13.64 22.89 12.80 0.00 35.69
+तेऱंगजनज / Telangana 0.73 9.03 0.00 9.76 2.29 27.17 0.00 29.46
+कनजाटक / Karnataka 27.07 17.43 12.74 57.24 74.37 50.85 38.00 163.22
+केरऱ / Kerala 0.55 0.13 0.00 0.68 0.96 0.39 0.00 1.35
+तममऱ नजडू / Tamil Nadu 14.10 8.10 0.00 22.20 22.78 20.32 0.00 43.10
+पुडुचेरी / Puducherry 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+दक्षक्षणी क्षेत्र / Southern Region 52.02 38.76 12.74 103.52 123.29 111.53 38.00 272.82
+बबहजर / Bihar 0.00 0.00 0.44 0.44 0.00 0.00 1.41 1.41
+दजमोदर घजटी ननगम / DVC 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+झजरखण्ड / Jharkhand 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ओडडशज/ Odisha 0.00 0.00 1.45 1.45 0.00 0.00 4.44 4.44
+पश्श्चम बंगजऱ / West Bengal 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मसश्ककम / Sikkim 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+पूर्वी क्षेत्र/ Eastern Region 0.00 0.00 1.89 1.89 0.00 0.00 5.85 5.85
+अरुणजचऱ प्रदेश / Arunachal Pradesh 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+असम / Assam 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मणणपुर / Manipur 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+मेघजऱय / Meghalaya 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+ममज़ोरम / Mizoram 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+नजगजऱैंड / Nagaland 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+बिपुरज / Tripura 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+उत्तर-पूर्वी क्षेत्र/ North-Eastern Region 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00
+Total Daily RE Generation (States) 144.29 81.58 46.70 272.57 372.83 228.88 137.99 739.70
+Total Daily RE generation from ISGS (from Page-2) 13.23 15.47 0.00 28.70 30.51 43.46 0.00 73.97
+सम्पूणण भारत/ All India 157.52 97.05 46.70 301.27 403.34 272.34 137.99 813.67
+Wind (MU) 157.52
+Solar (MU) 97.05
+Total (Wind+Solar)(MU) 254.57
+*(A) Co2 emission reduction @ 0.935 t Co2 per MWh (t Co2) 238023
+**(B) Coal consumption avoided @ 0.636 kg/kWh (Tonne) 161907
+***(C)Saving inWater consumption @ 3.25 KL per MWh (KL) 827353
+* Based on Co2 Baseline data base for Indian power sectpr version 14.0 Dec'2018.
+** Based on 2018-19 data for coal consumption and generation fome coal based generation station.
+*** Based on MoEF norm for specific water consumption (Average of norms for old & new power plants taken)Savings During the Day :-Central Electricity Authority 
+राज्य/State /क्षेत्र / Region3 ददसंबर,2019 /December ,2019दैनिक अक्षय ऊर्जा रिपोर्ा/Daily Renewable Generation ReportRenewable Project Monitoring Division
+आॉकड़े मिमियि यूनिर् िेर् / Figures in MU net
+* The data from otherRES (like Biomass, Bagasse, Small Hydro) is not complete and complete data for other RES is being received as part of monthly report only.Cumulative Generation during December2019
+Page 1 of 2

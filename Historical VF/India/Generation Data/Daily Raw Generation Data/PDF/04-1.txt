@@ -1,0 +1,15 @@
+Region Wind Solar Others RES 
+(Biomass,Bag
+asse,Small 
+Hydro & 
+Others) Total 
+NR 32.1 27.71 19.45 79.26
+WR 120.2 24.8 0.4 145.4
+SR 127.12 79.28 30.16 236.56
+ER - - - 2.42
+NER - - - -
+Total 279.42 131.79 50.01 463.64
+Desclaimer :- The Data is based on daily power suppy report by 
+RLDCs/NLDCs . It has only operational data and have no commerial 
+implication. Tentative Daily Renewable Generation Report 
+04-Jun-19
